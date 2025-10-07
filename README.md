@@ -88,7 +88,7 @@ The chart below shows the distribution of negotiated HTTP protocols (`HTTP/1.1`,
 
 **Final Visualization:**
 
-![Protocol Distribution Chart](captures/protocol_distribution.pdf)
+<img src="captures/protocol_distribution.png" alt="protocol version distribution" width="50%"/>
 
 The percentages shown in the chart represent the relative adoption of each protocol during the test session.  
 Minor variations may occur depending on the duration of each capture and the intensity of background network traffic.
